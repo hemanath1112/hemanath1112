@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemanath Chakkaravarthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" with="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanath1112&label=Profile%20views&color=0e75b6&style=flat" alt="hemanath1112" /> </p>
 
 - 🔭 I'm complet for my first cilent Project [AIMS Website](https://www.aimstravels.com/)
 
 - 🌱 I’m currently learning **React and Backend Process**
-
-- 👯 I’m looking to collaborate on [AIMS Website](https://www.aimstravels.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanath1112](https://github.com/hemanath1112)
 
