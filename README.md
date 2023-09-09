@@ -1,3 +1,4 @@
+<img alt="banner" src="./banner/banner-1.png" width="100%">
 <h1 align="center">Hi 👋, I'm Hemanath Chakkaravarthi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" with="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
